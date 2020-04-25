@@ -30,6 +30,7 @@ Poland | Government Official | https://github.com/ct-report/PL
 Portugal | |
 Romania | |
 Slovakia | |
+Slovenia | |
 Spain | |
 Sweden | |
 

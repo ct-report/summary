@@ -10,7 +10,7 @@ Austria | Government Official | https://github.com/ct-report/AT
 Belgium | Cancelled |
 Bulgaria | Government Official | https://github.com/ct-report/BG
 Croatia | Not taken into consideration |
-Cyprus | |
+Cyprus | Government Official | https://github.com/ct-report/CY
 Czechia | Government Official | https://github.com/ct-report/CZ
 Denmark | |
 Estonia | |

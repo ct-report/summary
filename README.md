@@ -15,7 +15,7 @@ Czechia | Government Official (Released) | https://github.com/ct-report/CZ
 Denmark | |
 Estonia | |
 Finland | |
-France | Under deliberation | https://github.com/ct-report/FR
+France | Under deliberation (PEPP-PT) | https://github.com/ROBERT-proximity-tracing
 Germany | |
 Greece | |
 Hungary | |

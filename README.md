@@ -33,4 +33,9 @@ Slovakia | |
 Spain | |
 Sweden | |
 
+- European Frameworks
 
+Name | Architecture | Details
+-----|--------------|--------
+DP^3T | Decentralized | https://github.com/ct-report/DP-3T
+PEPP-PT | Centralized | https://github.com/ct-report/PEPP-PT

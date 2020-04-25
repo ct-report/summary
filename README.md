@@ -6,12 +6,12 @@
 
 Country | Status | App Details
 --------|--------|------------
-Austria | Government Official | https://github.com/ct-report/AT
+Austria | Government Official (Released) | https://github.com/ct-report/AT
 Belgium | Cancelled |
-Bulgaria | Government Official | https://github.com/ct-report/BG
+Bulgaria | Government Official (Released) | https://github.com/ct-report/BG
 Croatia | Not taken into consideration |
-Cyprus | Government Official | https://github.com/ct-report/CY
-Czechia | Government Official | https://github.com/ct-report/CZ
+Cyprus | Government Official (Released) | https://github.com/ct-report/CY
+Czechia | Government Official (Released) | https://github.com/ct-report/CZ
 Denmark | |
 Estonia | |
 Finland | |
@@ -26,7 +26,7 @@ Lithuania | |
 Luxembourg | |
 Malta | |
 Netherlands | Shortlist cancellation - New proposal | https://github.com/ct-report/NL
-Poland | Government Official | https://github.com/ct-report/PL
+Poland | Government Official (Released) | https://github.com/ct-report/PL
 Portugal | |
 Romania | |
 Slovakia | |

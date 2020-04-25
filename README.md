@@ -2,7 +2,7 @@
 
 - EU Contact Tracing Apps
 
-- April 27, 2020 - snapshot
+- April 28, 2020 - snapshot
 
 Country | Status | App Details
 --------|--------|------------
@@ -24,7 +24,7 @@ Italy | Government Official (WIP) + Alternatives | https://github.com/ct-report/
 Latvia | |
 Lithuania | |
 Luxembourg | |
-Malta ! !
+Malta | |
 Netherlands | Shortlist (7 candidates) | https://github.com/ct-report/NL
 Poland | Government Official | https://github.com/ct-report/PL
 Portugal | |

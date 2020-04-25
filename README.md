@@ -26,7 +26,7 @@ Lithuania | |
 Luxembourg | |
 Malta | |
 Netherlands | Shortlist cancellation - New proposal | https://github.com/ct-report/NL
-Poland | Government Official (Released) | https://github.com/ct-report/PL
+Poland | Government Official (WIP) | https://github.com/ct-report/PL
 Portugal | |
 Romania | |
 Slovakia | |

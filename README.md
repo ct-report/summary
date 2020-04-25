@@ -15,7 +15,7 @@ Czechia | Government Official (Released) | https://github.com/ct-report/CZ
 Denmark | |
 Estonia | |
 Finland | |
-France | |
+France | Under deliberation | https://github.com/ct-report/FR
 Germany | |
 Greece | |
 Hungary | |

@@ -9,7 +9,7 @@ Country | Status | App Details
 Austria | Government Official (Released) | https://github.com/ct-report/AT
 Belgium | Cancelled |
 Bulgaria | Government Official (Released) | https://github.com/ct-report/BG
-Croatia | Not taken into consideration |
+Croatia | n/a |
 Cyprus | Government Official (Released) | https://github.com/ct-report/CY
 Czechia | Government Official (Released) | https://github.com/ct-report/CZ
 Denmark | In development |
@@ -17,9 +17,9 @@ Estonia | In development (DP^3T based) |
 Finland | In development (KETJU) |
 France | Under deliberation (STOPCOVID PEPP-PT based) | https://github.com/ROBERT-proximity-tracing
 Germany | Proposals evaluation | https://github.com/ct-report/DE
-Greece | |
-Hungary | |
-Ireland | |
+Greece | n/a |
+Hungary | n/a |
+Ireland | In development (CovidTracker Ireland App) |
 Italy | Government Official (WIP) + Alternatives | https://github.com/ct-report/IT
 Latvia | |
 Lithuania | |

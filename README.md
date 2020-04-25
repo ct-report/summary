@@ -12,11 +12,11 @@ Bulgaria | Government Official (Released) | https://github.com/ct-report/BG
 Croatia | Not taken into consideration |
 Cyprus | Government Official (Released) | https://github.com/ct-report/CY
 Czechia | Government Official (Released) | https://github.com/ct-report/CZ
-Denmark | |
-Estonia | |
-Finland | |
-France | Under deliberation (PEPP-PT) | https://github.com/ROBERT-proximity-tracing
-Germany | |
+Denmark | In development |
+Estonia | In development (DP^3T based) |
+Finland | In development (KETJU) |
+France | Under deliberation (STOPCOVID PEPP-PT based) | https://github.com/ROBERT-proximity-tracing
+Germany | Proposals evaluation |
 Greece | |
 Hungary | |
 Ireland | |

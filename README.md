@@ -34,9 +34,19 @@ Slovenia | |
 Spain | |
 Sweden | |
 
+\
 - European Frameworks
 
 Name | Architecture | Details
 -----|--------------|--------
 DP^3T | Decentralized | https://github.com/ct-report/DP-3T
 PEPP-PT | Centralized | https://github.com/ct-report/PEPP-PT
+
+\
+- Other Frameworks
+
+Name | Architecture | Details
+-----|--------------|--------
+TCN | | https://github.com/ct-report/TCN
+MIT | | https://github.com/ct-report/MIT
+OpenTrace | | https://github.com/ct-report/OPENTRACE

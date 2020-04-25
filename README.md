@@ -25,7 +25,7 @@ Latvia | |
 Lithuania | |
 Luxembourg | |
 Malta | |
-Netherlands | Shortlist (7 candidates) | https://github.com/ct-report/NL
+Netherlands | Shortlist cancellation - New proposal | https://github.com/ct-report/NL
 Poland | Government Official | https://github.com/ct-report/PL
 Portugal | |
 Romania | |

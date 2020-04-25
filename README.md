@@ -16,7 +16,7 @@ Denmark | In development |
 Estonia | In development (DP^3T based) |
 Finland | In development (KETJU) |
 France | Under deliberation (STOPCOVID PEPP-PT based) | https://github.com/ROBERT-proximity-tracing
-Germany | Proposals evaluation |
+Germany | Proposals evaluation | https://github.com/ct-report/DE
 Greece | |
 Hungary | |
 Ireland | |

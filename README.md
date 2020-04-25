@@ -9,7 +9,7 @@ Country | Status | App Details
 Austria | Government Official | https://github.com/ct-report/AT
 Belgium | Cancelled |
 Bulgaria | Government Official | https://github.com/ct-report/BG
-Croatia | |
+Croatia | Not taken into consideration |
 Cyprus | |
 Czechia | Government Official | https://github.com/ct-report/CZ
 Denmark | |

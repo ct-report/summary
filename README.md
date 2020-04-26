@@ -45,6 +45,6 @@ PEPP-PT | Centralized | https://github.com/ct-report/PEPP-PT
 
 Name | Architecture | Details
 -----|--------------|--------
-TCN | | https://github.com/ct-report/TCN
+TCN | Decentralized | https://github.com/ct-report/TCN
 MIT | | https://github.com/ct-report/MIT
-OpenTrace | | https://github.com/ct-report/OPENTRACE
+OpenTrace | Centralized | https://github.com/ct-report/OPENTRACE

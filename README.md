@@ -15,7 +15,7 @@ Czechia | Government Official (Released) | https://github.com/ct-report/CZ
 Denmark | In development |
 Estonia | In development (DP^3T based) |
 Finland | In development (KETJU) |
-France | Under deliberation (STOPCOVID PEPP-PT based) | https://github.com/ROBERT-proximity-tracing
+France | Under deliberation (STOPCOVID PEPP-PT based) | https://github.com/ct-report/FR
 Germany | Stopped Fraunhofer HHI (PEPP-PT) - Switch to Decentralized Proposals | https://github.com/ct-report/DE
 Greece | n/a |
 Hungary | n/a |
@@ -29,7 +29,7 @@ Netherlands | Cancelled shortlist - New proposal | https://github.com/ct-report/
 Poland | Government Official (WIP) | https://github.com/ct-report/PL
 Portugal | n/a |
 Romania | n/a |
-Slovakia | Not taken into consideration |
+Slovakia | Government Official (Released) | https://github.com/ct-report/SK
 Slovenia | n/a |
 Spain | n/a |
 Sweden | n/a |

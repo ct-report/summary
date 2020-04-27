@@ -15,21 +15,21 @@ Czechia | Government Official (Released) | https://github.com/ct-report/CZ
 Denmark | In development |
 Estonia | In development (DP^3T based) |
 Finland | In development (KETJU) |
-France | Under deliberation (STOPCOVID PEPP-PT based) | https://github.com/ct-report/FR
+France | Under deliberation (STOPCOVID PEPP-PT/ROBERT) | https://github.com/ct-report/FR
 Germany | Stopped Fraunhofer HHI (PEPP-PT) - Switch to Decentralized Proposals | https://github.com/ct-report/DE
 Greece | n/a |
 Hungary | n/a |
 Ireland | In development (CovidTracker Ireland App) |
-Italy | Government Official (WIP) + Alternatives | https://github.com/ct-report/IT
+Italy | Government Official (WIP) + Alternatives (?) | https://github.com/ct-report/IT
 Latvia | n/a |
 Lithuania | n/a |
 Luxembourg | n/a |
 Malta | n/a |
-Netherlands | Cancelled shortlist - New proposal | https://github.com/ct-report/NL
+Netherlands | Cancelled Appathon - New proposal | https://github.com/ct-report/NL
 Poland | Government Official (WIP) | https://github.com/ct-report/PL
 Portugal | n/a |
 Romania | n/a |
-Slovakia | Government Official (Released) | https://github.com/ct-report/SK
+Slovakia | Government Official (Released) + Alternative (!) | https://github.com/ct-report/SK
 Slovenia | n/a |
 Spain | n/a |
 Sweden | n/a |

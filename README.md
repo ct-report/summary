@@ -31,7 +31,7 @@ Portugal | n/a |
 Romania | n/a |
 Slovakia | Government Official (Released) + Alternative (!) | https://github.com/ct-report/SK
 Slovenia | n/a |
-Spain | Evaluating DP^3T |
+Spain | Evaluating DP^3T based solution |
 Sweden | n/a |
 
 - European Frameworks

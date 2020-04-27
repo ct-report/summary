@@ -1,6 +1,6 @@
 # Summary
 
-- EU Contact Tracing Apps
+- EU Contact-Tracing Apps for Android
 
 - April 27, 2020 - snapshot
 

@@ -27,12 +27,12 @@ Luxembourg | n/a |
 Malta | n/a |
 Netherlands | Cancelled shortlist - New proposal | https://github.com/ct-report/NL
 Poland | Government Official (WIP) | https://github.com/ct-report/PL
-Portugal | |
-Romania | |
-Slovakia | |
-Slovenia | |
-Spain | |
-Sweden | |
+Portugal | n/a |
+Romania | n/a |
+Slovakia | Not taken into consideration |
+Slovenia | n/a |
+Spain | n/a |
+Sweden | n/a |
 
 - European Frameworks
 

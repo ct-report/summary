@@ -2,7 +2,7 @@
 
 - EU Contact Tracing Apps
 
-- April 28, 2020 - snapshot
+- April 27, 2020 - snapshot
 
 Country | Status | App Details
 --------|--------|------------
@@ -31,7 +31,7 @@ Portugal | n/a |
 Romania | n/a |
 Slovakia | Government Official (Released) + Alternative (!) | https://github.com/ct-report/SK
 Slovenia | n/a |
-Spain | n/a |
+Spain | Evaluating DP^3T |
 Sweden | n/a |
 
 - European Frameworks
@@ -46,5 +46,5 @@ PEPP-PT | Centralized | https://github.com/ct-report/PEPP-PT
 Name | Architecture | Details
 -----|--------------|--------
 TCN | Decentralized | https://github.com/ct-report/TCN
-MIT PrivateKit | | https://github.com/ct-report/MIT
+MIT PrivateKit | Decentralized | https://github.com/ct-report/MIT
 OpenTrace | Centralized | https://github.com/ct-report/OPENTRACE

@@ -8,30 +8,30 @@
 
 Country | Status | App Details
 --------|--------|------------
-Austria | Government Official (Released) | https://github.com/ct-report/AT
+Austria | Government Official (STOPP CORONA) | https://github.com/ct-report/AT
 Belgium | Cancelled Program |
-Bulgaria | Government Official (Released) | https://github.com/ct-report/BG
+Bulgaria | Government Official (VIRUSAFE) | https://github.com/ct-report/BG
 Croatia | Not taken into consideration |
-Cyprus | Government Official (Released) | https://github.com/ct-report/CY
-Czechia | Government Official (Released) | https://github.com/ct-report/CZ
+Cyprus | Government Official (COVTRACER) | https://github.com/ct-report/CY
+Czechia | Government Official (EROUSKA) | https://github.com/ct-report/CZ
 Denmark | In development |
 Estonia | In development (DP^3T based) |
 Finland | In development (KETJU) |
-France | Under deliberation (STOPCOVID PEPP-PT/ROBERT) | https://github.com/ct-report/FR
+France | Under deliberation (STOPCOVID - PEPP-PT/ROBERT based) | https://github.com/ct-report/FR
 Germany | Stopped Fraunhofer HHI (PEPP-PT) - Switch to Decentralized Proposals | https://github.com/ct-report/DE
 Greece | n/a |
 Hungary | n/a |
 Ireland | In development (CovidTracker Ireland App) |
-Italy | Government Official (WIP) + Alternatives (?) | https://github.com/ct-report/IT
+Italy | In development (IMMUNI) + Alternatives (?) | https://github.com/ct-report/IT
 Latvia | In development (APTURI COVID - DP^3T based) |
 Lithuania | n/a |
 Luxembourg | n/a |
 Malta | n/a |
 Netherlands | Cancelled Appathon - New proposal | https://github.com/ct-report/NL
-Poland | Government Official (Released) | https://github.com/ct-report/PL
+Poland | Government Official (PROTEGO SAFE) | https://github.com/ct-report/PL
 Portugal | n/a |
 Romania | n/a |
-Slovakia | Government Official (Released) + Alternative (!) | https://github.com/ct-report/SK
+Slovakia | Government Official (COVID19 ZOSTANZDRAVY) + Alternative (!) | https://github.com/ct-report/SK
 Slovenia | n/a |
 Spain | Evaluating DP^3T based solution |
 Sweden | n/a |
@@ -40,11 +40,11 @@ Sweden | n/a |
 
 Country | Status | App Details
 --------|--------|------------
-Iceland | Government Official (Rakning C-19) | https://github.com/ct-report/IS
+Iceland | Government Official (RAKNING C-19) | https://github.com/ct-report/IS
 Liechtenstein | Not taken into consideration (biometric electronic bracelets) |
-Norway | Government Official (Smittestopp)| https://github.com/ct-report/NO
+Norway | Government Official (SMITTESTOPP)| https://github.com/ct-report/NO
 Switzerland | In Development (DP^3T based) | https://github.com/ct-report/CH
-United Kingdom | Government Official (NHS COVID-19 Trials in progress) | https://github.com/ct-report/UK
+United Kingdom | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
 
 - European Frameworks
 

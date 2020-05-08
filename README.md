@@ -39,7 +39,7 @@ Sweden | n/a |
 Country | Status | App Details
 --------|--------|------------
 Iceland | Government Official (Rakning C-19) | https://github.com/ct-report/IS
-Norway | Government Official | n
+Norway | Government Official (Smittestopp)| https://github.com/ct-report/NO
 Switzerland | n | n
 United Kingdom | Government Official (NHS COVID-19 Trials in progress) | https://github.com/ct-report/UK
 

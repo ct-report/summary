@@ -36,11 +36,12 @@ Slovenia | n/a |
 Spain | Evaluating DP^3T based solution |
 Sweden | n/a |
 
-- CH + UK + other EEA countries
+- CH + UK + EEA/non-EU Countries
 
 Country | Status | App Details
 --------|--------|------------
 Iceland | Government Official (Rakning C-19) | https://github.com/ct-report/IS
+Liechtenstein | Not taken into consideration (biometric electronic bracelets) |
 Norway | Government Official (Smittestopp)| https://github.com/ct-report/NO
 Switzerland | In Development (DP^3T based) | https://github.com/ct-report/CH
 United Kingdom | Government Official (NHS COVID-19 Trials in progress) | https://github.com/ct-report/UK

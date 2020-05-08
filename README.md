@@ -34,6 +34,15 @@ Slovenia | n/a |
 Spain | Evaluating DP^3T based solution |
 Sweden | n/a |
 
+- Close countries
+
+Country | Status | App Details
+--------|--------|------------
+Iceland | n | n
+Norway | Government Official | n
+Switzerland | n | n
+United Kingdom | Government Official (Trials in progress) | https://github.com/ct-report/UK
+
 - European Frameworks
 
 Name | Architecture | Details

@@ -38,10 +38,10 @@ Sweden | n/a |
 
 Country | Status | App Details
 --------|--------|------------
-Iceland | n | n
+Iceland | Government Official (Rakning C-19) | https://github.com/ct-report/IS
 Norway | Government Official | n
 Switzerland | n | n
-United Kingdom | Government Official (Trials in progress) | https://github.com/ct-report/UK
+United Kingdom | Government Official (NHS COVID-19 Trials in progress) | https://github.com/ct-report/UK
 
 - European Frameworks
 

@@ -43,7 +43,7 @@ Country | Status | App Details
 Iceland | Government Official (RAKNING C-19) | https://github.com/ct-report/IS
 Liechtenstein | Not taken into consideration (biometric electronic bracelets) |
 Norway | Government Official (SMITTESTOPP)| https://github.com/ct-report/NO
-Switzerland | In Development (DP^3T based) | https://github.com/ct-report/CH
+Switzerland | In Development (SWISS PT - DP^3T based) | https://github.com/ct-report/CH
 United Kingdom | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
 
 - European Frameworks

@@ -1,8 +1,10 @@
 # Summary
 
-- EU Contact-Tracing Apps for Android
+**European (EEA + CH + UK) Contact-Tracing Apps for Android**
 
-- April 27, 2020 - snapshot
+**May 8, 2020 - snapshot**
+
+- EU Countries
 
 Country | Status | App Details
 --------|--------|------------
@@ -34,13 +36,13 @@ Slovenia | n/a |
 Spain | Evaluating DP^3T based solution |
 Sweden | n/a |
 
-- Close countries
+- CH + UK + other EEA countries
 
 Country | Status | App Details
 --------|--------|------------
 Iceland | Government Official (Rakning C-19) | https://github.com/ct-report/IS
 Norway | Government Official (Smittestopp)| https://github.com/ct-report/NO
-Switzerland | Government Official (WIP) | https://github.com/ct-report/CH
+Switzerland | In Development (DP^3T based) | https://github.com/ct-report/CH
 United Kingdom | Government Official (NHS COVID-19 Trials in progress) | https://github.com/ct-report/UK
 
 - European Frameworks

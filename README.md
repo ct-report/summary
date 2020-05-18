@@ -18,7 +18,7 @@ Denmark | In development |
 Estonia | In development (DP^3T based) |
 Finland | In development (KETJU) |
 France | Under deliberation (STOPCOVID - PEPP-PT/ROBERT based) | https://github.com/ct-report/FR
-Germany | Stopped Fraunhofer HHI (PEPP-PT) - Switch to Decentralized Proposals | https://github.com/ct-report/DE
+Germany | In development (CORONA-WARN-APP - DP^3T/TCN based) | https://github.com/ct-report/DE
 Greece | n/a |
 Hungary | n/a |
 Ireland | In development (CovidTracker Ireland App) |

@@ -60,3 +60,9 @@ Name | Architecture | Details
 TCN | Decentralized | https://github.com/ct-report/TCN
 MIT PrivateKit | Decentralized | https://github.com/ct-report/MIT
 OpenTrace | Centralized | https://github.com/ct-report/OPENTRACE
+
+- Apple+Google Exposure Notifications API
+
+Name | Details
+-----|--------
+GAEN | https://github.com/ct-report/GAEN

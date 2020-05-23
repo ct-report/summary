@@ -20,7 +20,7 @@ Finland | In development (KETJU) |
 France | In development (STOPCOVID - PEPP-PT/ROBERT based) | https://github.com/ct-report/FR
 Germany | In development (CORONA-WARN-APP - DP^3T/TCN based) | https://github.com/ct-report/DE
 Greece | n/a |
-Hungary | n/a |
+Hungary | Government Official (VIRUSRADAR) | https://github.com/ct-report/HU
 Ireland | In development (CovidTracker Ireland App) |
 Italy | In development (IMMUNI) + Alternatives (?) | https://github.com/ct-report/IT
 Latvia | In development (APTURI COVID - DP^3T based) |

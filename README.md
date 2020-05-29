@@ -27,7 +27,7 @@ Latvia | Government Official (APTURI COVID) | https://github.com/ct-report/LV
 Lithuania | n/a |
 Luxembourg | n/a |
 Malta | n/a |
-Netherlands | Cancelled Appathon - New proposal | https://github.com/ct-report/NL
+Netherlands | In development (DP^3T based) after cancelled Appathon | https://github.com/ct-report/NL
 Poland | Government Official (PROTEGO SAFE) | https://github.com/ct-report/PL
 Portugal | n/a |
 Romania | n/a |

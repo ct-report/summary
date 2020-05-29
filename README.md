@@ -23,7 +23,7 @@ Greece | n/a |
 Hungary | Government Official (VIRUSRADAR) | https://github.com/ct-report/HU
 Ireland | In development (CovidTracker Ireland App) |
 Italy | In development (IMMUNI) + Alternatives (?) | https://github.com/ct-report/IT
-Latvia | In development (APTURI COVID - DP^3T based) | https://github.com/ct-report/LV
+Latvia | Government Official (APTURI COVID) | https://github.com/ct-report/LV
 Lithuania | n/a |
 Luxembourg | n/a |
 Malta | n/a |

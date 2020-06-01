@@ -22,7 +22,7 @@ Germany | In development (CORONA-WARN-APP - DP^3T/TCN based) | https://github.co
 Greece | n/a |
 Hungary | Government Official (VIRUSRADAR) | https://github.com/ct-report/HU
 Ireland | In development (CovidTracker Ireland App) |
-Italy | In development (IMMUNI) + Alternatives (?) | https://github.com/ct-report/IT
+Italy | Government Official (IMMUNI) | https://github.com/ct-report/IT
 Latvia | Government Official (APTURI COVID) | https://github.com/ct-report/LV
 Lithuania | n/a |
 Luxembourg | n/a |
@@ -31,7 +31,7 @@ Netherlands | In development (DP^3T based) after cancelled Appathon | https://gi
 Poland | Government Official (PROTEGO SAFE) | https://github.com/ct-report/PL
 Portugal | n/a |
 Romania | n/a |
-Slovakia | Government Official (COVID19 ZOSTANZDRAVY) + Alternative (!) | https://github.com/ct-report/SK
+Slovakia | Government Official (COVID19 ZOSTANZDRAVY) | https://github.com/ct-report/SK
 Slovenia | n/a |
 Spain | In development (DP^3T based) - Canary Islands Pilot-test |
 Sweden | n/a |
@@ -43,7 +43,7 @@ Country | Status | App Details
 Iceland | Government Official (RAKNING C-19) | https://github.com/ct-report/IS
 Liechtenstein | Not taken into consideration (biometric electronic bracelets) |
 Norway | Government Official (SMITTESTOPP)| https://github.com/ct-report/NO
-Switzerland | In Development (SWISSCOVID - DP^3T based) | https://github.com/ct-report/CH
+Switzerland | Government Official (SWISSCOVID) | https://github.com/ct-report/CH
 United Kingdom | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
 
 - European Frameworks

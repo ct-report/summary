@@ -17,7 +17,7 @@ Czechia | Government Official (EROUSKA) | https://github.com/ct-report/CZ
 Denmark | In development |
 Estonia | In development (DP^3T based) |
 Finland | In development (KETJU) - Pilot-test | https://github.com/ct-report/FI
-France | In development (STOPCOVID - PEPP-PT/ROBERT based) | https://github.com/ct-report/FR
+France | Government Official (STOPCOVID FRANCE) | https://github.com/ct-report/FR
 Germany | In development (CORONA-WARN-APP - DP^3T/TCN based) | https://github.com/ct-report/DE
 Greece | n/a |
 Hungary | Government Official (VIRUSRADAR) | https://github.com/ct-report/HU

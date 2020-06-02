@@ -2,7 +2,7 @@
 
 **European (EEA + CH + UK) Contact-Tracing Apps for Android**
 
-**June 1, 2020 - snapshot** (update in progress)
+**June 2, 2020 - snapshot** (update in progress)
 
 - EU Countries
 

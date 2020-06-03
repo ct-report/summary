@@ -61,6 +61,14 @@ TCN | Decentralized | https://github.com/ct-report/TCN
 MIT PrivateKit | Decentralized | https://github.com/ct-report/MIT
 OpenTrace | Centralized | https://github.com/ct-report/OPENTRACE
 
+- International
+
+Country | Status | App Details | License | Protocol
+--------|--------|-------------|---------|---------
+Australia | Government Official (CovidSafe) | https://github.com/AU-COVIDSafe/mobile-android | | BlueTrace.io
+Singapore | Government Official (TraceTogether) | https://github.com/opentrace-community | GPLv3 | BlueTrace.io
+India | Government Official (Aarogya Setu) | https://github.com/nic-delhi/AarogyaSetu_Android | Apache 2.0 |
+
 - Apple+Google Exposure Notifications API
 
 Name | Details

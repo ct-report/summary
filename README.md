@@ -11,7 +11,7 @@ Country | Status | App Details
 Austria | Government Official (STOPP CORONA) | https://github.com/ct-report/AT
 Belgium | Cancelled Program - re-evaluating Sciensano proposal |
 Bulgaria | Government Official (VIRUSAFE) | https://github.com/ct-report/BG
-Croatia | Not taken into consideration |
+Croatia | In Development (formerly Not taken into consideration) |
 Cyprus | Government Official (COVTRACER) | https://github.com/ct-report/CY
 Czechia | Government Official (EROUSKA) | https://github.com/ct-report/CZ
 Denmark | In development |
@@ -29,7 +29,7 @@ Luxembourg | n/a |
 Malta | n/a |
 Netherlands | In development (DP^3T based) after cancelled Appathon | https://github.com/ct-report/NL
 Poland | Government Official (PROTEGO SAFE) | https://github.com/ct-report/PL
-Portugal | n/a |
+Portugal | In Development (monitorCovid19 PT - DP^3T based) |
 Romania | n/a |
 Slovakia | Government Official (COVID19 ZOSTANZDRAVY) | https://github.com/ct-report/SK
 Slovenia | n/a |

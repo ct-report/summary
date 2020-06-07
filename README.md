@@ -2,7 +2,7 @@
 
 **European (EEA + CH + UK) Contact-Tracing Apps for Android**
 
-**June 2, 2020 - snapshot** (update in progress)
+**June 6, 2020 - snapshot** (update in progress)
 
 - EU Countries
 
@@ -46,6 +46,8 @@ Norway | Government Official (SMITTESTOPP)| https://github.com/ct-report/NO
 Switzerland | Government Official (SWISSCOVID) | https://github.com/ct-report/CH
 United Kingdom | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
 
+-------------------------------
+
 - European Frameworks
 
 Name | Architecture | Details
@@ -66,3 +68,16 @@ OpenTrace | Centralized | https://github.com/ct-report/OPENTRACE
 Name | Details
 -----|--------
 GAEN | https://github.com/ct-report/GAEN
+
+-------------------------------
+
+Map showing current possibile backend interoperability / GAEN TEK feeds exchange :
+
+Color | Description
+------|------------
+GREEN | GAEN support OK
+YELLOW | GAEN support in development
+GRAY | decentralized that could support GAEN 
+RED | incompatible (because of architecture or lack of BT)
+
+![](Europe.png)

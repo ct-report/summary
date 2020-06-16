@@ -80,4 +80,4 @@ YELLOW | GAEN support in development
 GRAY | decentralized that could support GAEN 
 RED | incompatible (because of architecture or lack of BT)
 
-![](Europe.png)
+![](Europe_20200616_12.png)

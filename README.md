@@ -2,7 +2,7 @@
 
 **European (EEA + CH + UK) Contact-Tracing Apps for Android**
 
-**June 6, 2020 - snapshot** (update in progress)
+**June 16, 2020 - snapshot** (update in progress)
 
 - EU Countries
 
@@ -18,7 +18,7 @@ Denmark | In development |
 Estonia | In development (DP^3T based) |
 Finland | In development (KETJU) - Pilot-test | https://github.com/ct-report/FI
 France | Government Official (STOPCOVID FRANCE) | https://github.com/ct-report/FR
-Germany | In development (CORONA-WARN-APP - DP^3T/TCN based) | https://github.com/ct-report/DE
+Germany | Government Official (CORONA-WARN-APP) | https://github.com/ct-report/DE
 Greece | n/a |
 Hungary | Government Official (VIRUSRADAR) | https://github.com/ct-report/HU
 Ireland | In development (CovidTracker Ireland App) |

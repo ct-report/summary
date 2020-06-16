@@ -42,7 +42,7 @@ Country | Status | App Details
 --------|--------|------------
 Iceland | Government Official (RAKNING C-19) | https://github.com/ct-report/IS
 Liechtenstein | Not taken into consideration (biometric electronic bracelets) |
-Norway | Government Official (SMITTESTOPP)| https://github.com/ct-report/NO
+Norway | Government Official (SMITTESTOPP) - SUSPENDEND SINCE 06/16 | https://github.com/ct-report/NO
 Switzerland | Government Official (SWISSCOVID) | https://github.com/ct-report/CH
 United Kingdom | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
 

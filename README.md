@@ -14,7 +14,7 @@ Bulgaria | Government Official (VIRUSAFE) | https://github.com/ct-report/BG
 Croatia | In Development (formerly Not taken into consideration) |
 Cyprus | Government Official (COVTRACER) | https://github.com/ct-report/CY
 Czechia | Government Official (EROUSKA) | https://github.com/ct-report/CZ
-Denmark | In development |
+Denmark | Government Official (SMITTESTOP) | https://github.com/ct-report/DK
 Estonia | In development (DP^3T based) |
 Finland | In development (KETJU) - Pilot-test | https://github.com/ct-report/FI
 France | Government Official (STOPCOVID FRANCE) | https://github.com/ct-report/FR
@@ -80,4 +80,4 @@ YELLOW | GAEN support in development
 GRAY | decentralized that could support GAEN 
 RED | incompatible (because of architecture or lack of BT)
 
-![](Europe_20200616_12.png)
+![](Europe_20200618_13.png)

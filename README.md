@@ -2,7 +2,7 @@
 
 **European (EEA + CH + UK) Contact-Tracing Apps for Android**
 
-**June 16, 2020 - snapshot** (update in progress)
+**June 18, 2020 - snapshot** (update in progress)
 
 - EU Countries
 
@@ -44,7 +44,7 @@ Iceland | Government Official (RAKNING C-19) | https://github.com/ct-report/IS
 Liechtenstein | Not taken into consideration (biometric electronic bracelets) |
 Norway | Government Official (SMITTESTOPP) - SUSPENDEND SINCE 06/16 | https://github.com/ct-report/NO
 Switzerland | Government Official (SWISSCOVID) | https://github.com/ct-report/CH
-United Kingdom | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
+United Kingdom | Government Official (NHS COVID-19) - switching to GAEN | https://github.com/ct-report/UK
 
 -------------------------------
 

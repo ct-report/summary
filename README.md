@@ -2,7 +2,7 @@
 
 **European (EEA + CH + UK) Contact-Tracing Apps for Android**
 
-**June 18, 2020 - snapshot** (update in progress)
+**July 15, 2020 - snapshot** (update in progress)
 
 - EU Countries
 
@@ -80,4 +80,4 @@ YELLOW | GAEN support in development
 GRAY | decentralized that could support GAEN 
 RED | incompatible (because of architecture or lack of BT)
 
-![](Europe_20200618_13.png)
+![](Europe_20200630_15.png)

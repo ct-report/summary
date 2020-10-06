@@ -71,30 +71,20 @@ North Macedonia | Government Official (STOPKORONA) | https://github.com/ct-repor
 
 -------------------------------
 
-- European Frameworks
+- Contact-Tracing Frameworks
 
 Name | Architecture | Details
 -----|--------------|--------
+GAEN Apple+Google | Decentralized | https://github.com/ct-report/GAEN
 DP^3T | Decentralized | https://github.com/ct-report/DP-3T
 PEPP-PT | Centralized | https://github.com/ct-report/PEPP-PT
-
-- Other Frameworks
-
-Name | Architecture | Details
------|--------------|--------
 TCN | Decentralized | https://github.com/ct-report/TCN
 MIT PrivateKit | Decentralized | https://github.com/ct-report/MIT
 OpenTrace | Centralized | https://github.com/ct-report/OPENTRACE
 
-- Apple+Google Exposure Notifications API
-
-Name | Details
------|--------
-GAEN | https://github.com/ct-report/GAEN
-
 -------------------------------
 
-Map showing current possibile backend interoperability / GAEN TEK feeds exchange :
+Map showing current possibile backend interoperability / GAEN TEK feeds exchange ( _EU TEK Gateway will be available to EU countries since October 17th_ ):
 
 Color | Description
 ------|------------

@@ -1,12 +1,18 @@
 # Summary ROTW
 
+Area | Details
+-------|-----------------------------------------------------------
+Europe | https://github.com/ct-report/summary/blob/master/Europe.md
+USA | https://github.com/ct-report/summary/blob/master/USA.md
+Rest of the World | https://github.com/ct-report/summary/blob/master/ROTW.md
+
+-------------------------------------
+
 **Rest of the World Contact-Tracing Apps for Android** \
-_[Europe](https://github.com/ct-report/summary/Europe)_
-_[USA](https://github.com/ct-report/summary/USA)_
 
-**October 7th, 2020 - snapshot** (still working on it)
+**October 6th, 2020 - snapshot** (still working on it)
 
-- **EMEA (Europe excluding EEA+CH+UK - Middle-East - Africa)**
+- **MEA (Middle-East - Africa)**
 
 Country | Status | App Details
 --------|--------|------------
@@ -47,13 +53,3 @@ Country | Status | App Details
 Canada | Alberta Official (ABTRACETOGETHER) + proposals (#GAEN based) | https://github.com/ct-report/CA
 Colombia | Government Official (CORONAPP) | https://github.com/ct-report/CO
 Mexico | Government Official (COVIDRADAR) | https://github.com/ct-report/MX
-
--------------------------------------
-
-- **United States**
-
-State | Status | App Details
-------|--------|------------
-North Dakota | Official (CARE19) | https://github.com/ct-report/USND
-South Dakota | Official (CARE19) | https://github.com/ct-report/USSD
-Utah | Official (HEALTHY TOGETHER) | https://github.com/ct-report/USUT

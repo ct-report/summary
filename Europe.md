@@ -1,8 +1,12 @@
 # Summary
 
+Europe | https://github.com/ct-report/summary/blob/master/Europe.md
+USA | https://github.com/ct-report/summary/blob/master/USA.md
+Rest of the World | https://github.com/ct-report/summary/blob/master/ROTW.md
+
 **European Contact-Tracing Apps for Android**
 
-**October 7th, 2020 - snapshot** (update in progress)
+**October 6th, 2020 - snapshot** (update in progress)
 
 - EU Countries
 

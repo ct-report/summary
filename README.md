@@ -7,9 +7,9 @@
 
 Area | Details | Status
 -----|---------|-------
-Europe | https://github.com/ct-report/Europe | Updating
-USA | https://github.com/ct-report/USA | Work in Progress
-Rest of the World | https://github.com/ct-report/ROTW | Work in Progress
+Europe | https://github.com/ct-report/summary/Europe | Updating
+USA | https://github.com/ct-report/summary/USA | Work in Progress
+Rest of the World | https://github.com/ct-report/summary/ROTW | Work in Progress
 
 -------------------------------
 
@@ -17,7 +17,7 @@ Rest of the World | https://github.com/ct-report/ROTW | Work in Progress
 
 Name | Architecture | Details
 -----|--------------|--------
-GAEN | https://github.com/ct-report/GAEN
+GAEN | Decentralized | https://github.com/ct-report/GAEN
 DP^3T | Decentralized | https://github.com/ct-report/DP-3T
 PEPP-PT | Centralized | https://github.com/ct-report/PEPP-PT
 TCN | Decentralized | https://github.com/ct-report/TCN

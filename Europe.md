@@ -1,10 +1,8 @@
 # Summary
 
-Area | Details
--------|-----------------------------------------------------------
-Europe | https://github.com/ct-report/summary/blob/master/Europe.md
-USA | https://github.com/ct-report/summary/blob/master/USA.md
-Rest of the World | https://github.com/ct-report/summary/blob/master/ROTW.md
+
+[Europe](https://github.com/ct-report/summary/blob/master/Europe.md) | [USA](https://github.com/ct-report/summary/blob/master/USA.md) | [Rest of the World](https://github.com/ct-report/summary/blob/master/ROTW.md)
+-----|------|-----
 
 -------------------------------------
 
@@ -12,7 +10,7 @@ Rest of the World | https://github.com/ct-report/summary/blob/master/ROTW.md
 
 **October 6th, 2020 - snapshot** (update in progress)
 
-- EU Countries
+- **EU Countries**
 
 Country | Status | App Details
 --------|--------|------------
@@ -43,8 +41,9 @@ Slovakia | Government Official (COVID19 ZOSTANZDRAVY) | https://github.com/ct-re
 Slovenia | Government Official (OSTANIZDRAV) | https://github.com/ct-report/SI
 Spain | Government Official Country (RADAR COVID) | https://github.com/ct-report/ES
 Sweden | n/a |
+\
 
-- CH + EEA/non-EU Countries
+- **CH + EEA/non-EU Countries**
 
 Country | Status | App Details
 --------|--------|------------
@@ -52,8 +51,9 @@ Iceland | Government Official (RAKNING C-19) | https://github.com/ct-report/IS
 Liechtenstein | Not taken into consideration (biometric electronic bracelets) |
 Norway | Government Official (SMITTESTOPP) - SUSPENDEND SINCE 06/16 | https://github.com/ct-report/NO
 Switzerland | Government Official (SWISSCOVID) | https://github.com/ct-report/CH
+\
 
-- UK + Oversea Territories
+- **UK + Oversea Territories**
 
 Country | Status | App Details
 --------|--------|------------
@@ -62,8 +62,9 @@ Northern Ireland | Government Official (STOPCOVID NI) | https://github.com/ct-re
 Scotland | Government Official (PROTECT SCOTLAND) | https://github.com/ct-report/UKSC
 Wales | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
 Gibraltar | Government Official (BEAT COVID GIBRALTAR) | https://github.com/ct-report/GI
+\
 
-- Other European Countries
+- **Other European Countries**
 
 Country | Status | App Details
 --------|--------|------------

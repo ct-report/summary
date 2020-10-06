@@ -7,7 +7,7 @@
 Area | Map
 -----|----
 [Europe](https://github.com/ct-report/summary/blob/master/Europe.md) | ![](20201006_Europe_Map_SMALL.png)
-[USA](https://github.com/ct-report/summary/blob/master/USA.md) | .
+[USA](https://github.com/ct-report/summary/blob/master/USA.md) | ![](20201006_USA_Map_SMALL.png)
 [Rest of the World](https://github.com/ct-report/summary/blob/master/ROTW.md) | .
 
 -------------------------------

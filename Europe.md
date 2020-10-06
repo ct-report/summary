@@ -69,7 +69,7 @@ Gibraltar | Government Official (BEAT COVID GIBRALTAR) | https://github.com/ct-r
 Country | Status | App Details
 --------|--------|------------
 North Macedonia | Government Official (STOPKORONA) | https://github.com/ct-report/MK
-
+-------------------------------
 
 - European Frameworks
 

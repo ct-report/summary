@@ -7,9 +7,9 @@
 
 Area | Details | Status
 -----|---------|-------
-Europe | https://github.com/ct-report/summary/Europe | Updating
-USA | https://github.com/ct-report/summary/USA | Work in Progress
-Rest of the World | https://github.com/ct-report/summary/ROTW | Work in Progress
+Europe | https://github.com/ct-report/summary/Europe.md | Updating
+USA | https://github.com/ct-report/summary/USA.md | Work in Progress
+Rest of the World | https://github.com/ct-report/summary/ROTW.md | Work in Progress
 
 -------------------------------
 

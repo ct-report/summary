@@ -93,4 +93,4 @@ Color | Description
 GREEN | GAEN support OK
 RED | GAEN incompatible (because of centralized architecture and/or lack of BT)
 
-![](Europe_Map.png)
+![](20201006_Europe_Map.png)

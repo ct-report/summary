@@ -2,13 +2,13 @@
 
 **Contact-Tracing Apps for Android**
 
-**October 6th, 2020 - snapshot** (update in progress)
+**October 6th, 2020 - snapshot** (work in progress)
 
-
-[Europe](https://github.com/ct-report/summary/blob/master/Europe.md) | [USA](https://github.com/ct-report/summary/blob/master/USA.md) | [Rest of the World](https://github.com/ct-report/summary/blob/master/ROTW.md)
------|------|-----
-![](20201006_Europe_Map_SMALL.png) | . | .
-Updating | Work in progress | Work in Progress
+Area | Map
+-----|----
+[Europe](https://github.com/ct-report/summary/blob/master/Europe.md) | ![](20201006_Europe_Map_SMALL.png)
+[USA](https://github.com/ct-report/summary/blob/master/USA.md) | .
+[Rest of the World](https://github.com/ct-report/summary/blob/master/ROTW.md) | .
 
 -------------------------------
 

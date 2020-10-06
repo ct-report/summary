@@ -17,7 +17,7 @@ Rest of the World | https://github.com/ct-report/summary/blob/master/ROTW.md | W
 
 Name | Architecture | Details
 -----|--------------|--------
-GAEN | Decentralized | https://github.com/ct-report/GAEN
+GAEN Apple+Google | Decentralized | https://github.com/ct-report/GAEN
 DP^3T | Decentralized | https://github.com/ct-report/DP-3T
 PEPP-PT | Centralized | https://github.com/ct-report/PEPP-PT
 TCN | Decentralized | https://github.com/ct-report/TCN

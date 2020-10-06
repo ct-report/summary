@@ -42,6 +42,7 @@ Slovenia | Government Official (OSTANIZDRAV) | https://github.com/ct-report/SI
 Spain | Government Official Country (RADAR COVID) | https://github.com/ct-report/ES
 Sweden | n/a |
 
+-------------------------------------
 
 - **CH + EEA/non-EU Countries**
 
@@ -52,6 +53,7 @@ Liechtenstein | Not taken into consideration (biometric electronic bracelets) |
 Norway | Government Official (SMITTESTOPP) - SUSPENDEND SINCE 06/16 | https://github.com/ct-report/NO
 Switzerland | Government Official (SWISSCOVID) | https://github.com/ct-report/CH
 
+-------------------------------------
 
 - **UK + Oversea Territories**
 
@@ -63,6 +65,7 @@ Scotland | Government Official (PROTECT SCOTLAND) | https://github.com/ct-report
 Wales | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
 Gibraltar | Government Official (BEAT COVID GIBRALTAR) | https://github.com/ct-report/GI
 
+-------------------------------------
 
 - **Other European Countries**
 

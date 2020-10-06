@@ -62,13 +62,13 @@ Northern Ireland | Government Official (STOPCOVID NI) | https://github.com/ct-re
 Scotland | Government Official (PROTECT SCOTLAND) | https://github.com/ct-report/UKSC
 Wales | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
 Gibraltar | Government Official (BEAT COVID GIBRALTAR) | https://github.com/ct-report/GI
--------------------------------
 
 - Other European Countries
 
 Country | Status | App Details
 --------|--------|------------
 North Macedonia | Government Official (STOPKORONA) | https://github.com/ct-report/MK
+
 -------------------------------
 
 - European Frameworks

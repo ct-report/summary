@@ -50,8 +50,8 @@ Switzerland | Government Official (SWISSCOVID) | https://github.com/ct-report/CH
 Country | Status | App Details
 --------|--------|------------
 England | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
-Northern Ireland | Government Official (STOPCOVID NI) | https://github.com/ct-report/UK/NI
-Scotland | Government Official (PROTECT SCOTLAND) | https://github.com/ct-report/UK/SCO
+Northern Ireland | Government Official (STOPCOVID NI) | https://github.com/ct-report/UKNI
+Scotland | Government Official (PROTECT SCOTLAND) | https://github.com/ct-report/UKSC
 Wales | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
 Gibraltar | Government Official (BEAT COVID GIBRALTAR) | https://github.com/ct-report/GI
 -------------------------------

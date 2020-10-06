@@ -5,11 +5,11 @@
 **October 6th, 2020 - snapshot** (update in progress)
 
 
-Area | Details | Status
------|---------|-------
-Europe | https://github.com/ct-report/summary/blob/master/Europe.md | Updating
-USA | https://github.com/ct-report/summary/blob/master/USA.md | Work in Progress
-Rest of the World | https://github.com/ct-report/summary/blob/master/ROTW.md | Work in Progress
+Area | Status
+-----|--------
+[Europe](https://github.com/ct-report/summary/blob/master/Europe.md) | Updating
+[USA](https://github.com/ct-report/summary/blob/master/USA.md) | Work in Progress
+[Rest of the World](https://github.com/ct-report/summary/blob/master/ROTW.md) | Work in Progress
 
 -------------------------------
 

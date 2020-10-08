@@ -25,7 +25,7 @@ Estonia | Government Official (HOIA) | https://github.com/ct-report/EE |
 Finland | Government Official (KORONAVILLKU) | https://github.com/ct-report/FI
 France | Government Official (STOPCOVID FRANCE) | https://github.com/ct-report/FR
 Germany | Government Official (CORONA-WARN-APP) | https://github.com/ct-report/DE
-Greece | n/a |
+Greece | Government Official (EXO) | https://github.com/ct-report/GR
 Hungary | Government Official (VIRUSRADAR) | https://github.com/ct-report/HU
 Ireland | Government Official (COVID TRACKER) | https://github.com/ct-report/IE
 Italy | Government Official (IMMUNI) | https://github.com/ct-report/IT

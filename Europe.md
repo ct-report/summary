@@ -37,7 +37,7 @@ Netherlands | Government Official (CORONAMELDER) | https://github.com/ct-report/
 Poland | Government Official (PROTEGO SAFE) | https://github.com/ct-report/PL
 Portugal | Government Official (STAYAWAY COVID) | https://github.com/ct-report/PT
 Romania | n/a |
-Slovakia | Government Official (COVID19 ZOSTANZDRAVY) - DISABLED & REMOVED FROM STORE | https://github.com/ct-report/SK
+Slovakia | Government Official (COVID19 ZOSTANZDRAVY) - DISABLED | https://github.com/ct-report/SK
 Slovenia | Government Official (OSTANIZDRAV) | https://github.com/ct-report/SI
 Spain | Government Official Country (RADAR COVID) | https://github.com/ct-report/ES
 Sweden | n/a |

@@ -36,11 +36,13 @@ Country | Status | App Details
 Australia | Government Official (COVIDSAFE) -> GAEN development | https://github.com/ct-report/AU
 Bangladesh | Government Official (CORONA TRACER BD) | https://github.com/ct-report/BD
 Brunei | Government Official (BRUHEALTH) - In Development | https://github.com/ct-report/BN
+Fiji | Government Official (CAREFIJI) | https://github.com/ct-report/FJ
 India | Government Official (AAROGYA SETU) | https://github.com/ct-report/IN
 Indonesia | Government Official (PEDULILINDUGI) | https://github.com/ct-report/ID
 Japan | Government Official (COCOA – COVID-19 Contact App) | https://github.com/ct-report/JP
 Kazakhstan | Government Official (SAQBOL) | https://github.com/ct-report/KZ
 Malaysia | Government Official (MYTRACE) | https://github.com/ct-report/MY
+New Zealand | Government Official (NZ COVID TRACER) | https://github.com/ct-report/NZ
 Philippines | Government Official (STAYSAFE PH) | https://github.com/ct-report/PH
 Singapore | Government Official (TRACETOGETHER) | https://github.com/ct-report/SG
 Thailandia | Government Official (MOR CHANA) | https://github.com/ct-report/TH

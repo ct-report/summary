@@ -29,6 +29,8 @@ OpenTrace | Centralized | https://github.com/ct-report/OPENTRACE
 
 Name | Link | References
 -----|------|-----------
+EU Mobile Contact Tracing Apps | https://ec.europa.eu/info/live-work-travel-eu/coronavirus-response/travel-during-coronavirus-pandemic/mobile-contact-tracing-apps-eu-member-states_en | [European Commission on Twitter](https://twitter.com/eu_commission)
+Publicly-available GAEN Android Apps | https://developers.google.com/android/exposure-notifications/apps | [Google Developers on Twitter](https://twitter.com/googledevs)
 f1s0c131 Covid19 Tracker Apps | https://github.com/fs0c131y/covid19-tracker-apps | [Elliot Anderson on Twitter](https://twitter.com/fs0c131y)
 MIT Technology Review Covid Tracing Tracker | https://docs.google.com/spreadsheets/d/1ATalASO8KtZMx__zJREoOvFh0nmB-sAqJ1-CjVRSCOw | [MIT Technology Review on Twitter](https://twitter.com/techreview)
 XDA - Countries using GAEN API Framework | https://www.xda-developers.com/google-apple-covid-19-contact-tracing-exposure-notifications-api-app-list-countries | [XDA Developers on Twitter](https://twitter.com/xdadevelopers)

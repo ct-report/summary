@@ -14,32 +14,32 @@
 
 Country | Status | App Details
 --------|--------|------------
-Austria | Government Official (STOPP CORONA) | https://github.com/ct-report/AT
-Belgium | Government Official (CORONALERT) | https://github.com/ct-report/BE
-Bulgaria | Government Official (VIRUSAFE) | https://github.com/ct-report/BG
-Croatia | Government Official (STOP COVID-19) | https://github.com/ct-report/HR |
-Cyprus | Government Official (COVTRACER) | https://github.com/ct-report/CY
-Czechia | Government Official (EROUSKA) | https://github.com/ct-report/CZ
-Denmark | Government Official (SMITTESTOP) | https://github.com/ct-report/DK
-Estonia | Government Official (HOIA) | https://github.com/ct-report/EE |
-Finland | Government Official (KORONAVILLKU) | https://github.com/ct-report/FI
-France | Government Official (STOPCOVID FRANCE) | https://github.com/ct-report/FR
-Germany | Government Official (CORONA-WARN-APP) | https://github.com/ct-report/DE
-Greece | Government Official (EXO) | https://github.com/ct-report/GR
-Hungary | Government Official (VIRUSRADAR) | https://github.com/ct-report/HU
-Ireland | Government Official (COVID TRACKER) | https://github.com/ct-report/IE
-Italy | Government Official (IMMUNI) | https://github.com/ct-report/IT
-Latvia | Government Official (APTURI COVID) | https://github.com/ct-report/LV
-Lithuania | n/a |
+Austria | Official (STOPP CORONA) | https://github.com/ct-report/AT
+Belgium | Official (CORONALERT) | https://github.com/ct-report/BE
+Bulgaria | Official (VIRUSAFE) | https://github.com/ct-report/BG
+Croatia | Official (STOP COVID-19) | https://github.com/ct-report/HR |
+Cyprus | Official (COVTRACER EN) | https://github.com/ct-report/CY
+Czechia | Official (EROUSKA) | https://github.com/ct-report/CZ
+Denmark | Official (SMITTESTOP) | https://github.com/ct-report/DK
+Estonia | Official (HOIA) | https://github.com/ct-report/EE |
+Finland | Official (KORONAVILLKU) | https://github.com/ct-report/FI
+France | Official (STOPCOVID FRANCE) | https://github.com/ct-report/FR
+Germany | Official (CORONA-WARN-APP) | https://github.com/ct-report/DE
+Greece | Official (EXO) | https://github.com/ct-report/GR
+Hungary | Official (VIRUSRADAR) | https://github.com/ct-report/HU
+Ireland | Official (COVID TRACKER) | https://github.com/ct-report/IE
+Italy | Official (IMMUNI) | https://github.com/ct-report/IT
+Latvia | Official (APTURI COVID) | https://github.com/ct-report/LV
+Lithuania | Official (KORONA STOP LT) | https://github.com/ct-report/LT
 Luxembourg | n/a |
-Malta | Government Official (COVID ALERT MALTA) | https://github.com/ct-report/MT
-Netherlands | Government Official (CORONAMELDER) | https://github.com/ct-report/NL
-Poland | Government Official (PROTEGO SAFE) | https://github.com/ct-report/PL
-Portugal | Government Official (STAYAWAY COVID) | https://github.com/ct-report/PT
+Malta | Official (COVID ALERT MALTA) | https://github.com/ct-report/MT
+Netherlands | Official (CORONAMELDER) | https://github.com/ct-report/NL
+Poland | Official (PROTEGO SAFE) | https://github.com/ct-report/PL
+Portugal | Official (STAYAWAY COVID) | https://github.com/ct-report/PT
 Romania | n/a |
-Slovakia | Government Official (COVID19 ZOSTANZDRAVY) - DISABLED | https://github.com/ct-report/SK
-Slovenia | Government Official (OSTANIZDRAV) | https://github.com/ct-report/SI
-Spain | Government Official Country (RADAR COVID) | https://github.com/ct-report/ES
+Slovakia | Official (COVID19 ZOSTANZDRAVY) - DISABLED | https://github.com/ct-report/SK
+Slovenia | Official (OSTANIZDRAV) | https://github.com/ct-report/SI
+Spain | Official (RADAR COVID) | https://github.com/ct-report/ES
 Sweden | n/a |
 
 -------------------------------------
@@ -48,10 +48,10 @@ Sweden | n/a |
 
 Country | Status | App Details
 --------|--------|------------
-Iceland | Government Official (RAKNING C-19) | https://github.com/ct-report/IS
+Iceland | Official (RAKNING C-19) | https://github.com/ct-report/IS
 Liechtenstein | Not taken into consideration (biometric electronic bracelets) |
-Norway | Government Official (SMITTESTOPP) - SUSPENDEND -> GAEN development | https://github.com/ct-report/NO
-Switzerland | Government Official (SWISSCOVID) | https://github.com/ct-report/CH
+Norway | Official (SMITTESTOPP) - SUSPENDEND -> GAEN development | https://github.com/ct-report/NO
+Switzerland | Official (SWISSCOVID) | https://github.com/ct-report/CH
 
 -------------------------------------
 
@@ -59,11 +59,11 @@ Switzerland | Government Official (SWISSCOVID) | https://github.com/ct-report/CH
 
 Country | Status | App Details
 --------|--------|------------
-England | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
-Northern Ireland | Government Official (STOPCOVID NI) | https://github.com/ct-report/UKNI
-Scotland | Government Official (PROTECT SCOTLAND) | https://github.com/ct-report/UKSC
-Wales | Government Official (NHS COVID-19) | https://github.com/ct-report/UK
-Gibraltar | Government Official (BEAT COVID GIBRALTAR) | https://github.com/ct-report/GI
+England | Official (NHS COVID-19) | https://github.com/ct-report/UK
+Northern Ireland | Official (STOPCOVID NI) | https://github.com/ct-report/UKNI
+Scotland | Official (PROTECT SCOTLAND) | https://github.com/ct-report/UKSC
+Wales | Official (NHS COVID-19) | https://github.com/ct-report/UK
+Gibraltar | Official (BEAT COVID GIBRALTAR) | https://github.com/ct-report/GI
 
 -------------------------------------
 
@@ -71,7 +71,7 @@ Gibraltar | Government Official (BEAT COVID GIBRALTAR) | https://github.com/ct-r
 
 Country | Status | App Details
 --------|--------|------------
-North Macedonia | Government Official (STOPKORONA) | https://github.com/ct-report/MK
+North Macedonia | Official (STOPKORONA) | https://github.com/ct-report/MK
 
 -------------------------------
 
@@ -95,4 +95,4 @@ Color | Description
 GREEN | GAEN support OK
 RED | GAEN incompatible (because of centralized architecture and/or lack of BT)
 
-![](20201006_Europe_Map.png)
+![](20210130_Europe_Map.png)

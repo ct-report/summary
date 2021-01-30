@@ -34,5 +34,6 @@ Publicly-available GAEN Android Apps | https://developers.google.com/android/exp
 f1s0c131 Covid19 Tracker Apps | https://github.com/fs0c131y/covid19-tracker-apps | [Elliot Anderson on Twitter](https://twitter.com/fs0c131y)
 MIT Technology Review Covid Tracing Tracker | https://docs.google.com/spreadsheets/d/1ATalASO8KtZMx__zJREoOvFh0nmB-sAqJ1-CjVRSCOw | [MIT Technology Review on Twitter](https://twitter.com/techreview)
 XDA - Countries using GAEN API Framework | https://www.xda-developers.com/google-apple-covid-19-contact-tracing-exposure-notifications-api-app-list-countries | [XDA Developers on Twitter](https://twitter.com/xdadevelopers)
-Wikipedia - List of CT Apps by Country | https://en.wikipedia.org/wiki/COVID-19_apps#List_of_apps_by_country | .
+Android Police - Covid Tracing Apps | https://www.androidpolice.com/2021/01/02/covid-tracing-apps-ens-android/ | [Android Police on Twitter](https://twitter.com/androidpolice)
+Wikipedia - List of CT Apps by Country | https://en.wikipedia.org/wiki/COVID-19_apps#List_of_apps_by_country | [Wikipedia on Twitter](https://twitter.com/wikipedia)
 
